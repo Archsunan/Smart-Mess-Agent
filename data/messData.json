@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Sunshine Mess",
+    "price": 80,
+    "rating": 4.5,
+    "type": "veg",
+    "deliveryTime": 15,
+    "quantityLeft": 25,
+    "whatsapp": "919876543210"
+  },
+  {
+    "id": 2,
+    "name": "Green Garden Mess",
+    "price": 70,
+    "rating": 4.2,
+    "type": "veg",
+    "deliveryTime": 20,
+    "quantityLeft": 0,
+    "whatsapp": "916380589243"
+  },
+  {
+    "id": 3,
+    "name": "Spice Hub Mess",
+    "price": 95,
+    "rating": 4.7,
+    "type": "non-veg",
+    "deliveryTime": 12,
+    "quantityLeft": 30,
+    "whatsapp": "919876543212"
+  },
+  {
+    "id": 4,
+    "name": "Quick Bite Mess",
+    "price": 60,
+    "rating": 3.8,
+    "type": "veg",
+    "deliveryTime": 10,
+    "quantityLeft": 5,
+    "whatsapp": "919876543213"
+  },
+  {
+    "id": 5,
+    "name": "Royal Kitchen Mess",
+    "price": 120,
+    "rating": 4.8,
+    "type": "non-veg",
+    "deliveryTime": 25,
+    "quantityLeft": 15,
+    "whatsapp": "919876543214"
+  },
+  {
+    "id": 6,
+    "name": "Budget Bites Mess",
+    "price": 50,
+    "rating": 3.5,
+    "type": "veg",
+    "deliveryTime": 18,
+    "quantityLeft": 40,
+    "whatsapp": "919876543215"
+  },
+  {
+    "id": 7,
+    "name": "Tasty Treats Mess",
+    "price": 85,
+    "rating": 4.3,
+    "type": "non-veg",
+    "deliveryTime": 14,
+    "quantityLeft": 8,
+    "whatsapp": "919876543216"
+  },
+  {
+    "id": 8,
+    "name": "Healthy Harvest Mess",
+    "price": 90,
+    "rating": 4.6,
+    "type": "veg",
+    "deliveryTime": 22,
+    "quantityLeft": 20,
+    "whatsapp": "919876543217"
+  }
+]
